@@ -1,0 +1,10 @@
+# Libre Office Calc (Temporary File)
+*.ods#
+
+# Draw.IO Cache File
+*.bkp
+
+# KiCAD Temp Files
+*.lck
+*.kicad_prl
+*fp-info-cache
