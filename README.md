@@ -1,7 +1,7 @@
 # Vacuum Former
 An affordable vacuum former capable of forming medium to large bucks and molds. The system must also be safe for anyone to use in both hardware and electronics (as this requires mains).
 
-![Project_Image](.assets/Vacuum%20Former%20Design.png)
+![Project_Image](.assets/Vacuum%20Former%20V5%20Front%20View.png)
 
 ## Features
 * Hybrid Frame - Rigid aluminium combined with cheap cement fiber boards results in a fireproof frame.
