@@ -22,6 +22,7 @@ around 240C to form properly.
 
 ## Roadmap
 * Milestones: Hardware Assembly Complete
-* Work In Progress: Electrical Wiring
-* Work In Progress: Electrical Box
-* Work In Progress: Controller Box
+* Milestones: Electrical Wiring
+* Milestones: Electrical Box
+* Milestones: Controller Box
+* Work In Progress: Datasheet
