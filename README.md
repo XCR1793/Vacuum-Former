@@ -26,3 +26,4 @@ around 240C to form properly.
 * Milestones: Electrical Box
 * Milestones: Controller Box
 * Work In Progress: Datasheet
+* Planned: Assembly Instructions
