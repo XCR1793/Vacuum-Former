@@ -1,3 +1,3 @@
 # Hardware
 
-![Hardware_Capabilities](/.assets/Vacuum%20Former%20Design.png)
+![Hardware_Capabilities](../Images//Vacuum%20Former%20Design.png)

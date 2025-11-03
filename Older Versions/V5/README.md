@@ -1,7 +1,7 @@
-# Vacuum Former
+# Vacuum Former V5
 An affordable vacuum former capable of forming medium to large bucks and molds. The system must also be safe for anyone to use in both hardware and electronics (as this requires mains).
 
-![Project_Image](.assets/Undaconstwuction.png)
+![Project_Image](Images/Vacuum%20Former%20V5%20Front%20View.png)
 
 ## Features
 * Hybrid Frame - Rigid aluminium combined with cheap cement fiber boards results in a fireproof frame.
@@ -19,25 +19,3 @@ beyond if you want to run the heater box. The average house hold outlet should p
 you will have to find a high current compatible port or else you will trip a breaker. If you dont have one, then you must remove 2 of the heating elements as each of them uses 1KW. This 
 will however reduce the total amount of heat you can provided and may not be able to rais the temperature enough to heat difficult to form materials such as polycarbonate which requires 
 around 240C to form properly.
-
-## Roadmap
-* Milestones: Hardware Assembly Complete
-* Milestones: Electrical Wiring
-* Milestones: Electrical Box
-* Milestones: Controller Box
-* Work In Progress: V5.1
-* Work In Progress: Extended version for V5.1 (Vacuum charge upgrade)
-
-## To Do List
-* V5.1: Proper heating element power control
-* V5.1: Heating area extended to the entire material frame
-* V5.1: More even heating spread
-* V5.1: Temperature control
-* V5.1: Proper platen sealing
-* V5.1: Fully sealed plumbing
-* V5.1: Figure out a slightly faster clamping mechanism
-* V5.1: Figure out a way to more reliably measure sag/prestretching 
-* Extended: Floor standing
-* Extended: Vacuum tank
-* Extended: Vacuum pump
-* Extended: Upgraded plumbing
